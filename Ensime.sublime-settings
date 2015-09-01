@@ -16,7 +16,7 @@
 
   // performance settings
   "timeout_sync_roundtrip": 3,
-  "timeout_completions": 1.0,
+  "timeout_completions": 0.1,
   "max_import_suggestions": 20,
 
   // stylistic settings
